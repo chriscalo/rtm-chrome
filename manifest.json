@@ -1,0 +1,16 @@
+{
+  "name": "Remember the Milk",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Remember the Milk",
+  "browser_action": {
+    "default_icon": "icons/19.png",
+    "default_title": "Remember the Milk",
+    "default_popup": "rtm.html"
+  },
+  "permissions": [
+    "tabs",
+    "http://*/",
+    "https://*/"
+  ]
+}
