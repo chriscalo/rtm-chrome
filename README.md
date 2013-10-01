@@ -1,4 +1,5 @@
-rtm-chrome
-==========
+# Remember the Milk Chrome Extension
 
-Remember the Milk Chrome Extension
+Load RTM's Quick Add window in a Chrome popup.
+
+![The RTM Chrome Extension](design/rtm-chrome-current.png)
